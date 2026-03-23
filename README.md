@@ -98,11 +98,3 @@ blogs
 ## License
 
 MIT License - feel free to use this project for your own blog!
-
-## Credits
-
-Inspired by the neon club theme from [CodePen](https://codepen.io/hussard/pen/MdBKpv)
-
----
-
-Enjoy creating amazing content with your new neon blog! ⚡

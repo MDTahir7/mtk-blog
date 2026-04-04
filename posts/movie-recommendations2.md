@@ -16,7 +16,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/B4N3qgZLN9o" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/BcDK7lkzzsU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -24,7 +24,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/VGz-K93HLJ0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/aLAKJu9aJys" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -32,7 +32,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/b7-EFXabjSQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/U0LETmDvuXc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -40,7 +40,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/J-m6w3t8N5w" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/Fr2WXx129PY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -48,7 +48,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/wq-jVfG4tFs" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/afxUFef1fNY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -56,7 +56,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/YZnPUbFy4SQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/75TvtJIbbNY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -64,7 +64,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/ljmtVaKYqgg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/bXRGvxdHvZA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -72,7 +72,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/aYGWGktcGXM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/Lgj4GjqCFlY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -80,7 +80,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/Z7lLjHPwMhw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/nPegIryJ5DM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -88,7 +88,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/D6-3-nrPHdI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/j_Lm2PXb3tk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -96,7 +96,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/hpfPuO6UzY0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/oWOLqMJgSSM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -104,7 +104,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/5KeYKS5i13s" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/CSYg7Z1KS_I" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -112,7 +112,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/aeEBbqCPoKo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/6bgfRGXwLcI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -120,7 +120,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/n0FzuZGXKUA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/_RlzNBlMQpY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -130,7 +130,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/xG4Ej-P3t3c" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/2ErnLuJKQA4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -138,7 +138,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/-8FnB1b7V94" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/8ugaeA-nMTc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -146,7 +146,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/BWf-eARnf6U" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/t06RUxPbp_c" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -154,7 +154,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/RiFhAsltLe0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/pK2zYHWDZKo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -162,7 +162,15 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/1LQy0KZlWFI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/nu6R7ypaz5g" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+  </div>
+</details>
+
+### The One 2001
+<details>
+  <summary>🎬 <b>Click to watch the trailer</b></summary>
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+    <iframe src="https://www.youtube.com/embed/LfeIezSuRj4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -170,15 +178,15 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/xQC8R2t6n18" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/UxUTTrU6PA4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
-### Hellboy
+### Hellboy 2004
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/tFb1nZkVFIY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/VTZB7u3iFaA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -188,7 +196,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/dKi6j_NIMps" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/Skpu5HaVkOc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -196,7 +204,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/uYpjEsZfqZ0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/mRDE5l-PJYY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -204,7 +212,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/7kFfqmfV-5s" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/-SzkFgEqB6Y" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -212,7 +220,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/w8PZR8KWyRE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/b9YEdjEKme0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -220,7 +228,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/58FqVz1Qbvw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/bl4N4s2sWhg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -228,7 +236,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/uILjPIKL4nc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/1q7g-MJAnRI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -236,7 +244,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/5usKVE1lkbs" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/P1yKN0llkrY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -244,7 +252,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/5usKVE1lkbs" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/3sHMCRaS3ao" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -254,7 +262,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/sXgSlqe0HI0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/yA6OKoW30Pk" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -262,7 +270,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/z5UG9Av7sAE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/aLO5OACiXNg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -270,7 +278,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/7WJF_kT3hro" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/7BWWWQzTpNU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -278,7 +286,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/d8pPKJmKGOU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/pqs9ycvKfD8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -286,7 +294,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/bNs38nOBkUU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/AhSnxFOMTDU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -296,7 +304,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/pF5F62gu1gE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/g79CvhHaj5I" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -304,7 +312,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/OKBMXHE6ZEE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/L4LWIXngIG0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -312,7 +320,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/R_3iFWJLLCo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/d9PlHc_qVKw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -320,7 +328,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/IfEcLpJ-Vvg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/fd_w7Qw8biU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -328,7 +336,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/h3qPBEKwvfE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/gzeaGcLLl_A" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -336,7 +344,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/JgsCR-GpVcA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/RiFWllVG_o4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -344,7 +352,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/BjSVgQvLZD8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/vqH2cV1T9WE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -352,7 +360,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/2_1Gvz07xmU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/IS7KLVs1Ib4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -362,7 +370,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/1jhkLhbZJQw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/3NCOwTBWYdE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -370,7 +378,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/hPF_aLvLqIw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/epCg2RbyF80" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -378,7 +386,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/WzqcCn9eYwE" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/gEdTzJ6UPeA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -388,7 +396,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/G0kav0Dqqe8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/SDnYMbYB-nU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -404,7 +412,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/JZJtiwEEWn8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/1TSidCNA7mQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -412,7 +420,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/NjlCse9prgI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/UrIbxk7idYA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -420,7 +428,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/P0BgXTmVcF0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/sFXGrTng0gQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -428,7 +436,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/kYHMqcJmxDw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/3fdRKme00uI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -436,7 +444,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/8qhiqYPGgqw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/2_IoL7g5Ub8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -446,7 +454,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/FC6biuQ6Cc8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/BjJcYdEOI0k" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -454,7 +462,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/lzWgvqeCtx4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/LZl69yk5lEY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -462,7 +470,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/F2bNFVpwRUw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/LVkocdkcmAc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -470,7 +478,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/l5G_7NfjCvs" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/LNlrGhBpYjc" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -478,7 +486,7 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/qkD9I5L_gAo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/eIU_IHfp3cU" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
@@ -486,16 +494,12 @@ From spine-tingling horror to adrenaline-pumping action, international masterpie
 <details>
   <summary>🎬 <b>Click to watch the trailer</b></summary>
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; margin: 15px 0; background-color: #000; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
-    <iframe src="https://www.youtube.com/embed/-MzLsDquW-w" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/UWMzKXsY9A4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" allowfullscreen></iframe>
   </div>
 </details>
 
 ---
 
-## 🎬 Final Thoughts
 
-Thank you for exploring Part 2 of my Ultimate Movie Vault! This collection represents movies that have left a lasting impression and offer unforgettable cinema experiences. Whether you pick one from the horror section, dive into superhero action, or explore gems from different cultures, I'm confident you'll find something to love.
-
-**What's your favorite movie from this list?** Feel free to share your thoughts and recommendations! 
 
 **Happy watching! 🍿🎬**

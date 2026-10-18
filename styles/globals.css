@@ -1,10 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
-
 :root {
   --brand-primary: #44D688;
-  --font-family-display: Monoton, Arial, sans-serif;
-  --font-family-primary: 'Rubik', Arial, sans-serif;
+  --font-family-display: var(--font-monoton), Monoton, Arial, sans-serif;
+  --font-family-primary: var(--font-rubik), 'Rubik', Arial, sans-serif;
   --neon-effect: 0 0 0 transparent,
     0 0 20px rgb(255, 0, 0),
     0 0 50px rgba(255, 0, 0,.5),
@@ -87,7 +84,10 @@ a {
 .button {
   border: none;
   cursor: pointer;
+  display: inline-block;
   font-size: 16px;
+  text-align: center;
+  text-decoration: none;
   text-transform: uppercase;
   letter-spacing: 1px;
 }

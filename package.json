@@ -1,6 +1,6 @@
 {
   "name": "neon-blog",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -9,18 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "14.0.0",
-    "react": "^18",
-    "react-dom": "^18",
     "gray-matter": "^4.0.3",
-    "marked": "^9.1.2"
+    "marked": "^9.1.2",
+    "next": "^14.2.35",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "eslint": "^8",
-    "eslint-config-next": "14.0.0",
-    "typescript": "^5"
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.35"
   }
 }

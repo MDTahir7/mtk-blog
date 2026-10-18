@@ -302,6 +302,64 @@ a {
   color: #ccc;
 }
 
+.blog-content strong,
+.blog-content b {
+  font-weight: 700;
+  color: #FFFFFF;
+}
+
+.blog-content em,
+.blog-content i {
+  font-style: italic;
+  color: #E2E8F0;
+}
+
+.blog-content u {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  color: #FFFFFF;
+}
+
+.blog-content del,
+.blog-content s,
+.blog-content strike {
+  text-decoration: line-through;
+  opacity: 0.7;
+}
+
+.blog-content hr {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(255, 136, 136, 0.4), transparent);
+  margin: 2.5em 0;
+}
+
+.blog-content a {
+  color: var(--brand-primary);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  transition: opacity 0.2s;
+}
+
+.blog-content a:hover {
+  opacity: 0.8;
+}
+
+.blog-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  margin: 1.5em 0;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+}
+
+.blog-content video {
+  max-width: 100%;
+  border-radius: 12px;
+  margin: 1.5em 0;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+}
+
 .blog-content ul,
 .blog-content ol {
   padding-left: 30px;
